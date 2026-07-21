@@ -6,7 +6,7 @@
 }
 
 body{
-    background:#f4f4f4;
+    background:EEEEEE;
     color:#333;
 }
 
@@ -14,7 +14,7 @@ body{
     width:90%;
     max-width:1000px;
     margin:auto;
-    padding:50px 0;
+    padding:35px 0;
 }
 
 header{
@@ -61,7 +61,8 @@ h2{
 }
 
 .card{
-    background:white;
+    background:#FAF7F0;
+    margin-top: 5px;
     padding:20px;
     text-align:center;
     border-radius:10px;
@@ -73,8 +74,7 @@ h2{
     transform:translateY(-5px);
 }
 
-.timeline,
-.project{
+.cllg, .project{
     background:white;
     padding:20px;
     border-left:5px solid #00bcd4;
